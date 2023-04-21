@@ -1,0 +1,19 @@
+.parent {
+height: 700px;
+width: 800px;
+    background-color: #000;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.child_01 {
+    background-color: #f7f7f7;
+    height: 300px;
+    width: 300px;
+    
+}
+.child_02 {
+    background-color: blueviolet;
+    height: 400px;
+    width: 500px;
+}
